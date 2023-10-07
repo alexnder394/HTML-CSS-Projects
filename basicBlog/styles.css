@@ -129,10 +129,9 @@ footer ul li a:hover {
   align-items: center;
   justify-content: center;
 }
-.hero hr{
+.hero hr {
   width: 50%;
   margin: 32px 0;
-
 }
 .hero h1,
 .hero p {
