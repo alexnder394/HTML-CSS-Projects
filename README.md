@@ -29,13 +29,14 @@ This repository is dedicated to my journey in learning and mastering HTML and CS
 
    Simply navigate to the desired project folder and open the `index.html` file in your preferred web browser.
 
-## Projects
+## Live Demo
 
-Here are some of the projects I've worked on:
+You can view live demos of the projects hosted right here:
 
-1. **Project Name 1** - A brief description of the project.
-2. **Project Name 2** - A brief description of the project.
-3. ... (Add more projects as you create them)
+- **[Simple Art Gallery](https://alexnder394.github.io/HTML-CSS-Projects/simpleArtGallery/index.html)** - A minimalist art gallery showcasing various artworks using grid and flexbox layouts.
+- **[Basic Blog](https://alexnder394.github.io/HTML-CSS-Projects/basicBlog/index.html)** - A foundational blog layout designed to practice basic HTML and CSS structures.
+
+
 
 ## Resources
 
