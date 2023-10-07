@@ -42,6 +42,8 @@ You can view live demos of the projects hosted right here:
 
 Here are some resources that have helped me along the way:
 
+- [Coursera](https://www.coursera.org/)
+- [Udemy](https://www.udemy.com/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [CSS-Tricks](https://css-tricks.com/)
 - [W3Schools](https://www.w3schools.com/)
