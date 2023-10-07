@@ -55,4 +55,4 @@ If you have any feedback or suggestions, please open an issue. I'd love to hear 
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](https://opensource.org/license/mit/).
